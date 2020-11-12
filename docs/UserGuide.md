@@ -53,7 +53,7 @@
 &nbsp;&nbsp;[6.1. The tasks save file](#61-the-tasks-save-file)<br>
 &nbsp;&nbsp;[6.2. The notebooks save file](#62-the-notebooks-save-file)<br>
 
-<hr>
+<div style="page-break-after: always;">
 
 <!-- @@author neilbaner-->
 ## 1. Introduction
@@ -130,7 +130,7 @@ N/noteboo...:$
 
 * where `N/` indicates that the user is in Notebook Mode and `noteboo...` is the name of the Notebook, which has more than 7 characters.  
 
-<hr>
+<div style="page-break-after: always;">
 
 <!-- @@author chuckiex3-->
 ## 2. Quick Start
@@ -159,7 +159,7 @@ or an open-source alternative like [AdoptOpenJDK](https://adoptopenjdk.net/index
 
 Great! Now that you have successfully run **Zer0Note**, go ahead and try out the different commands available (shown in section 3. Features).
 
-<hr>
+<div style="page-break-after: always;">
 
 ## 3. Features
 
@@ -929,7 +929,7 @@ What is OOP?
 
 To close the program, type `exit`.
 
-<hr>
+<div style="page-break-after: always;">
 
 <!-- @@author neilbaner-->
 
@@ -939,9 +939,9 @@ This section answers some frequently asked questions.
 
 ### How do I transfer my data to another computer?
 
-The save files for Zer0Note are stored in the same directory as the Zer0Note JAR file. 
-You may move the entire directory to another computer and Zer0Note will continue to work with your saved data. 
-Alternatively, you may just move the 'tasks.txt', 'notebooks.txt' and 'nameOfUser.txt' files in the Zer0Note JAR file 
+The save files for Zer0Note are stored in the same directory as the Zer0Note JAR file.
+You may move the entire directory to another computer and Zer0Note will continue to work with your saved data.
+Alternatively, you may just move the 'tasks.txt', 'notebooks.txt' and 'nameOfUser.txt' files in the Zer0Note JAR file
 directory to another computer, into the directory containing the Zer0Note JAR file on that computer.
 
 ### Where do I find the release?
@@ -967,7 +967,7 @@ our GitHub repository](https://github.com/AY2021S1-CS2113T-T12-3/tp). We recomme
 [Developer Guide](https://ay2021s1-cs2113t-t12-3.github.io/tp/DeveloperGuide.html) to better understand the code,
 especially if you want to contribute to development.
 
-<hr>
+<div style="page-break-after: always;">
 
 <!-- @@author-->
 ## 5. Command Summary
@@ -1020,7 +1020,7 @@ The following table is a cheatsheet of the commands available in Notebook Mode.
 [Delete](#356-deleting-a-notebooksectionpage-delete): `delete` | 1) delete /n[NOTEBOOK] /s[SECTION] /p[NUMBER] | select /nCS2113T /sW10 /p1
 [Switch to timetable mode](#322-switching-to-the-timetable-mode): `mode` | mode /t |
 
-<hr>
+<div style="page-break-after: always;">
 
 <!-- @@author neilbaner-->
 
@@ -1031,7 +1031,7 @@ you so desire. We realise that power users may wish to use a different text edit
 to edit their notes, while also taking advantage of the organisation features of Zer0Note. If you wish to edit the
 save file by yourself, here's a detailed guide on the contents of the save file and how to edit it.
 
-The save files are stored in the same directory as the Zer0Note JAR file. 
+The save files are stored in the same directory as the Zer0Note JAR file.
 
 > :exclamation: **Zer0Note** is very sensitive to the format of the saved file! If there are any errors in the save
 > file, **Zer0Note** will not load it at all, since it cannot be sure if any of the file is uncorrupted. Proceed with
