@@ -1,4 +1,3 @@
-<div style="page-break-after: always;">
 # Zer0Note User Guide
 
 ```
@@ -54,7 +53,7 @@
 &nbsp;&nbsp;[6.1. The tasks save file](#61-the-tasks-save-file)<br>
 &nbsp;&nbsp;[6.2. The notebooks save file](#62-the-notebooks-save-file)<br>
 
-</div>
+<hr>
 
 <!-- @@author neilbaner-->
 ## 1. Introduction
@@ -131,7 +130,7 @@ N/noteboo...:$
 
 * where `N/` indicates that the user is in Notebook Mode and `noteboo...` is the name of the Notebook, which has more than 7 characters.  
 
-</div>
+<hr>
 
 <!-- @@author chuckiex3-->
 ## 2. Quick Start
@@ -160,7 +159,7 @@ or an open-source alternative like [AdoptOpenJDK](https://adoptopenjdk.net/index
 
 Great! Now that you have successfully run **Zer0Note**, go ahead and try out the different commands available (shown in section 3. Features).
 
-</div>
+<hr>
 
 ## 3. Features
 
@@ -930,7 +929,7 @@ What is OOP?
 
 To close the program, type `exit`.
 
-</div>
+<hr>
 
 <!-- @@author neilbaner-->
 
@@ -968,7 +967,7 @@ our GitHub repository](https://github.com/AY2021S1-CS2113T-T12-3/tp). We recomme
 [Developer Guide](https://ay2021s1-cs2113t-t12-3.github.io/tp/DeveloperGuide.html) to better understand the code,
 especially if you want to contribute to development.
 
-</div>
+<hr>
 
 <!-- @@author-->
 ## 5. Command Summary
@@ -1021,7 +1020,7 @@ The following table is a cheatsheet of the commands available in Notebook Mode.
 [Delete](#356-deleting-a-notebooksectionpage-delete): `delete` | 1) delete /n[NOTEBOOK] /s[SECTION] /p[NUMBER] | select /nCS2113T /sW10 /p1
 [Switch to timetable mode](#322-switching-to-the-timetable-mode): `mode` | mode /t |
 
-</div>
+<hr>
 
 <!-- @@author neilbaner-->
 
